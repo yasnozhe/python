@@ -1,0 +1,9 @@
+id,name,age,salary,department,hiredate,is_active
+1,Ivan,28,120000.0,IT,2021-03-15,True
+2,Anna,34,155000.0,Analytics,2019-07-01,True
+3,Petr,25,95000.0,IT,2023-01-10,True
+4,Elena,41,180000.0,Management,2017-11-20,True
+5,Sergey,30,130000.0,Analytics,2020-05-12,False
+6,Maria,29,140000.0,HR,2022-09-01,True
+7,Dmitry,37,165000.0,IT,2018-04-25,True
+8,Olga,26,110000.0,Analytics,2024-02-01,True
